@@ -1,5 +1,5 @@
 # My Resume
-#The building block for my portfolio as I begin my web development journey.
+The building block for my portfolio as I begin my web development journey.
 
 ## Features
 - Live links
